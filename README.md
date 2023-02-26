@@ -1,2 +1,2 @@
 # accent-model
-to recognize origin accent of the user
+I am editing the README file. Adding some more details about the project description.
